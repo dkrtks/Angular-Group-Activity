@@ -1,11 +1,11 @@
 # HelloWorld
 
-Group Members:![1245]
+Group Members:
 
 Dunkurt Ken Salazar, 
 Aldrin Richjan Hipolito
 
-(https://user-images.githubusercontent.com/123219991/233814069-dd210ef3-e112-4b8e-b0bf-cfb09c27c992.PNG)
+![1245](https://user-images.githubusercontent.com/123219991/233814069-dd210ef3-e112-4b8e-b0bf-cfb09c27c992.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
