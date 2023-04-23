@@ -1,7 +1,7 @@
 # HelloWorld
 
 Group Members:
-Dunkurt Ken Salazar
+Dunkurt Ken Salazar, 
 Aldrin Richjan Hipolito
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
